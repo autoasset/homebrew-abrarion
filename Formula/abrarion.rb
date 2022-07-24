@@ -6,6 +6,7 @@ class Abrarion < Formula
   def install
     bin.install "abrarion"
   end
+  
   test do
     system "false"
   end
