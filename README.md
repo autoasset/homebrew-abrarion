@@ -3,7 +3,7 @@
 # 安装
 
 ```shell
-brew tap autoasset/autoasset
+brew tap autoasset/abrarion
 brew install autoasset/abrarion/abrarion
 ```
 
