@@ -1,8 +1,8 @@
 class Abrarion < Formula
   desc "任务编排工具"
   homepage "https://github.com/autoasset/homebrew-abrarion"
-  url "https://github.com/autoasset/homebrew-abrarion/releases/download/1.0.1/abrarion-1.0.1.tar.gz"
-  sha256 "9a47c5c010af6603608de82e117bb10a4321e4184f7a71c985c6fdf125e192b4"
+  url "https://github.com/autoasset/homebrew-abrarion/releases/download/1.0.2/abrarion-1.0.2.tar.gz"
+  sha256 "a570acb595a551ad166f56030843f76dae6fd4de1307734d5ca24efc70add51b"
   def install
     bin.install "abrarion"
   end
